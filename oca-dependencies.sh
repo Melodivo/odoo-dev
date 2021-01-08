@@ -1,5 +1,5 @@
-#git submodule add -b 12.0 git@github.com:OCA/account-analytic.git oca/account-analytic
-#git submodule add -b 12.0 git@github.com:OCA/account-budgeting.git oca/account-budgeting
+git submodule add -b 12.0 git@github.com:OCA/account-analytic.git oca/account-analytic
+git submodule add -b 12.0 git@github.com:OCA/account-budgeting.git oca/account-budgeting
 git submodule add -b 12.0 git@github.com:OCA/account-closing.git oca/account-closing
 git submodule add -b 12.0 git@github.com:OCA/account-financial-reporting.git oca/account-financial-reporting
 git submodule add -b 12.0 git@github.com:OCA/account-financial-tools.git oca/account-financial-tools
